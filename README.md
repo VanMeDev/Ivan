@@ -1,11 +1,9 @@
-# About me
+<h1 align="center">Hi 👋, I'm Ivan</h1>                          
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanMeDev&show_icons=true&theme=radical)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0e0f19&lines=Cybersecurity+student)](https://git.io/typing-svg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanMeDev&layout=compact)](https://github.com/VanMeDev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanMeDev&hide_progress=true)](https://github.com/VanMeDev/github-readme-stats)
-
-<h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanmedev&label=Profile%20views&color=0e75b6&style=flat" alt="vanmedev" /> </p>
