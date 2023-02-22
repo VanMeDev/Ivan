@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>                      
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&multiline=true&width=435&lines=Cybersecurity+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Recoleta&pause=1000&color=CC15E1&multiline=true&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13F9C3&multiline=true&width=435&lines=Cybersecurity+student)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=47F763&multiline=true&width=435&lines=Crypto+influencer)](https://git.io/typing-svg)
 
